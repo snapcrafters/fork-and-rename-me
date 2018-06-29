@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="Project">
+  <img src="snap/gui/icon.png" alt="Project" style="height: 256px">
   <br />
   [Project]
 </h1>
@@ -15,12 +15,12 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install my-snap-name
+    sudo snap install --channel=edge --devmode my-snap-name
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
 <!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
+![my-snap-name](snap/screenshots/screenshot.png?raw=true "my-snap-name")
 -->
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
